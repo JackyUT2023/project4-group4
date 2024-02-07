@@ -18,7 +18,7 @@ Step2. we use CNN model to predict what it is (e.g. what category/what colour...
 Step3. we use the prediction result, as a test data and use NN model to predict how much price this item should be. </br>
 Step4. show the predict price to user.</br>
 
-![Project Scope]('Project Scope.png')
+![Project%20Scope.png](Project%20Scope.png)
 
 # Who and Why
 This project is design for data analyst, business owner who what to predict the price of their new products or cusumer want to have a budget before they make a purchase.
