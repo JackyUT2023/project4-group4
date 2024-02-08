@@ -24,4 +24,5 @@ Step4. show the predict price to user.</br>
 This project is design for data analyst, business owner who what to predict the price of their new products or cusumer want to have a budget before they make a purchase.
 
 # Actionable items to improve the model
-* Feeding more training data
+* Feeding more training data (e.g. loading more raw images to training database, rotating the current images as new training data etc.) can definatly improve the model.
+* Cropping key identical images. (For example, cropping the logo as training data instead of the whole shoe with background could reduce the noise. )
