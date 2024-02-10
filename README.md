@@ -35,3 +35,17 @@ Step4. show the predict price to user.</br>
 # Actionable items to improve the model
 * Feeding more training data (e.g. loading more raw images to training database, rotating the current images as new training data etc.) can definatly improve the model.
 * Cropping key identical images. (For example, cropping the logo as training data instead of the whole shoe with background could reduce the noise. )
+
+# CNN Colours Analysis
+Training the model to learn colours was simpler than categories. The dataset was much smaller with only 168 images with a high accuracy of 80% after 15 epochs.
+![colour_accuracy](https://github.com/JackyUT2023/project4-group4/assets/127992819/6956744a-7548-4bb5-955f-069869851271)
+The results of the predicted colours are as shown.
+![colour_prediction](https://github.com/JackyUT2023/project4-group4/assets/127992819/77839265-1426-4b04-82d4-ebcc7831f1cf)
+# CNN Categories Training Model
+We used a precompiled Fashion MNIST image library. This included over 70,000 images with 10 categories.
+# CNN Categories Analysis
+
+# References
+Fashion MNIST dataset: https://www.kaggle.com/datasets/zalando-research/fashionmnist
+Clothing dataset: https://www.kaggle.com/datasets/mrsimple07/clothes-price-prediction/data
+PyTorch Color Classifier: https://www.kaggle.com/code/kimduhan/cnn-fashion-color-classifier-with-pytorch
