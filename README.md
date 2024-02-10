@@ -46,6 +46,6 @@ We used a precompiled Fashion MNIST image library. This included over 70,000 ima
 # CNN Categories Analysis
 
 # References
-Fashion MNIST dataset: https://www.kaggle.com/datasets/zalando-research/fashionmnist
-Clothing dataset: https://www.kaggle.com/datasets/mrsimple07/clothes-price-prediction/data
-PyTorch Color Classifier: https://www.kaggle.com/code/kimduhan/cnn-fashion-color-classifier-with-pytorch
+Fashion MNIST dataset: https://www.kaggle.com/datasets/zalando-research/fashionmnist </br>
+Clothing dataset: https://www.kaggle.com/datasets/mrsimple07/clothes-price-prediction/data </br>
+PyTorch Color Classifier: https://www.kaggle.com/code/kimduhan/cnn-fashion-color-classifier-with-pytorch </br>
