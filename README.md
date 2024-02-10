@@ -26,12 +26,11 @@ Step4. show the predict price to user.</br>
 ), and we also use hundreds of online images for model training.
 
 # Limitation
-* For CNN model:</br>
 - Premade MNIST training data - i.e.) 2 shoes in an image or images not in the right configuration</br>
 - Not optimized: run-time 2-3 min/epoch - Upsizing 28x28 to 224x224, increasing runtime 100x</br>
 - Low epochs = unable to train all data properly</br>
 - Fixed labels MNIST training dataset</br>
-* In attempting to create a machine learning model to predict prices, it was observed that there was no correlation between the price and other features in the dataset.
+- In attempting to create a machine learning model to predict prices, it was observed that there was no correlation between the price and other features in the dataset.
 
 # Actionable items to improve the model
 * Feeding more training data (e.g. loading more raw images to training database, rotating the current images as new training data etc.) can definatly improve the model.
