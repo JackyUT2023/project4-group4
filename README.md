@@ -65,3 +65,8 @@ Small epoch = probabilities more spread
 Fashion MNIST dataset: https://www.kaggle.com/datasets/zalando-research/fashionmnist </br>
 Clothing dataset: https://www.kaggle.com/datasets/mrsimple07/clothes-price-prediction/data </br>
 PyTorch Color Classifier: https://www.kaggle.com/code/kimduhan/cnn-fashion-color-classifier-with-pytorch </br>
+TensorFlow MaxPooling2D Layer：https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPooling2D </br>
+TensorFlow CONV2D Layer: https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html </br>
+SQLAlchemy-Utils: https://sqlalchemy-utils.readthedocs.io/en/latest/ </br>
+psycopg2: https://pypi.org/project/psycopg2/ </br>
+AMS CLI: https://docs.aws.amazon.com/managedservices/latest/onboardingguide/install-cli.html </br>
