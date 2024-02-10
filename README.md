@@ -36,14 +36,30 @@ Step4. show the predict price to user.</br>
 * Feeding more training data (e.g. loading more raw images to training database, rotating the current images as new training data etc.) can definatly improve the model.
 * Cropping key identical images. (For example, cropping the logo as training data instead of the whole shoe with background could reduce the noise. )
 
+# Convolutional Neural Network
+* Colour and Categories </br>
+    - Colours used in our fashion dataset (black, blue, green, red, white, yellow) </br>
+    - Category (T-shirts, trousers, pullovers, dresses, coats, sandals, shirts, shoes, bag, and ankle boot) </br>
+
+
 # CNN Colours Analysis
 Training the model to learn colours was simpler than categories. The dataset was much smaller with only 168 images with a high accuracy of 80% after 15 epochs.
 ![colour_accuracy](https://github.com/JackyUT2023/project4-group4/assets/127992819/6956744a-7548-4bb5-955f-069869851271)
 The results of the predicted colours are as shown.
 ![colour_prediction](https://github.com/JackyUT2023/project4-group4/assets/127992819/77839265-1426-4b04-82d4-ebcc7831f1cf)
 # CNN Categories Training Model
-We used a precompiled Fashion MNIST image library. This included over 70,000 images with 10 categories.
+* We used a precompiled Fashion MNIST image library. This included over 70,000 images with 10 categories.</br>
+    - MNIST Dataset</br>
+    - 70,000+ black and white images of 28x28 images</br>
+    - 3 neurons</br>
+    - 10 categories instead of 6</br>
+        - Adjustments to labels made</br>
+
 # CNN Categories Analysis
+23 minute runtime (2-3 minute/ epoch) </br>
+83-84% accuracy</br>
+Probabilities change depending on hyperparameters (epochs, neurons)
+Small epoch = probabilities more spread
 
 # References
 Fashion MNIST dataset: https://www.kaggle.com/datasets/zalando-research/fashionmnist </br>
