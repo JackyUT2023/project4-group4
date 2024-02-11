@@ -2,11 +2,8 @@
 ## Group Members:
 
 Christina Leung
-
 Ismail Omer
-
 Jacky Zhang
-
 Yug Sharma
 
 # Files:
@@ -93,6 +90,10 @@ The model is still able to predict the image shown is a dress. However, the conf
 
 ![jacket_prob](https://github.com/JackyUT2023/project4-group4/assets/127992819/4c4955af-4a3f-4f18-8846-2b642b799ed4)
 
+# CNN Brand Training Model
+- Only 20 training images are used for each brand. </br>
+- Fast testing speed and high accuracy for internal resources.
+
 
 # Limitation
 
@@ -103,6 +104,8 @@ There are many factors that we could improve and optimize in our models:
 - Not optimized: run-time 2-3 min/epoch - Upsizing 28x28 to 224x224, increasing runtime 100x
 - Low epochs = unable to train all data properly and creates variation in probabilities in different reruns of the model
 - Fixed labels/categories/classifications within MNIST training dataset. The model would not be able to predict articles of clothing not within our dataset images such as socks or hats
+- Brand training image prediction manually cropped from Internet. (Time consuming to scale it up) 
+- AWS Free Tier limitation. (Cloud ETL is limited because only certain request usage of services are free)
 
 
 # Actionable items to improve the model
