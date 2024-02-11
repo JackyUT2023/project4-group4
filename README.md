@@ -1,4 +1,4 @@
-# project4-group4
+# Price Prediction Tool (CNN & Regression Model)
 ## Group Members:
 
 Christina Leung
