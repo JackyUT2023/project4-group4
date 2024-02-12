@@ -39,6 +39,10 @@ Step4. show the predict price to user.</br>
 # Summary of EDA
 * In this project, we used a clothes price dataset from Kaggle (Resource: https://www.kaggle.com/datasets/mrsimple07/clothes-price-prediction/data
 ), and we also use hundreds of online images for model training.
+* `Clothes Price Prediction CSV from Kaggle
+* `It includes various features related to clothing items along with corresponding prices
+* `Features include Brands, Category, Size, Material, Price
+![Screenshot 2024-02-11 230536](https://github.com/JackyUT2023/project4-group4/assets/139788593/176756e9-9a5b-4382-989a-b6af567c2e10)
 
 
 # Convolutional Neural Network
