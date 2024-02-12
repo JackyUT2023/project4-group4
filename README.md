@@ -42,6 +42,8 @@ Step4. show the predict price to user.</br>
 * `Clothes Price Prediction CSV from Kaggle
 * `It includes various features related to clothing items along with corresponding prices
 * `Features include Brands, Category, Size, Material, Price
+
+  
 ![Screenshot 2024-02-11 230536](https://github.com/JackyUT2023/project4-group4/assets/139788593/176756e9-9a5b-4382-989a-b6af567c2e10)
 
 
