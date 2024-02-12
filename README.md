@@ -47,6 +47,12 @@ Step4. show the predict price to user.</br>
 ![Screenshot 2024-02-11 230536](https://github.com/JackyUT2023/project4-group4/assets/139788593/176756e9-9a5b-4382-989a-b6af567c2e10)
 
 
+![Screenshot 2024-02-11 231426](https://github.com/JackyUT2023/project4-group4/assets/139788593/ce705d40-fb4d-4c33-ae8d-f3421ca3752b)
+
+
+![Screenshot 2024-02-11 231441](https://github.com/JackyUT2023/project4-group4/assets/139788593/fdb9f0ee-9fc4-4dfc-8aaa-ddc3706efe41)
+
+
 # Convolutional Neural Network
 
 The CNN component is split up into two models, one for colours which include the colours from our fashion dataset (black, blue, green, red, white, yellow) while the other includes the categories from our dataset (T-shirts, trousers, pullovers, dresses, coats, sandals, shirts, shoes, bag, and ankle boot). We had to make a slight modification to our categories as we decided to use the fashion MNIST dataset for our training data.
