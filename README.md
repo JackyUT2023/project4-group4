@@ -100,6 +100,9 @@ The model is still able to predict the image shown is a dress. However, the conf
 - Only 20 training images are used for each brand. </br>
 - Fast testing speed and high accuracy for internal resources.
 
+![Screenshot 2024-02-11 231208](https://github.com/JackyUT2023/project4-group4/assets/139788593/cdd20406-1e3f-452c-8dab-ee48dee06569)
+
+
 
 # Limitation
 
