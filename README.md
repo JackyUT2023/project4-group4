@@ -1,10 +1,10 @@
 # Price Prediction Tool (CNN & Regression Model)
 ## Group Members:
 
-Christina Leung
-Ismail Omer
-Jacky Zhang
-Yug Sharma
+Christina Leung<br>
+Ismail Omer<br>
+Jacky Zhang<br>
+Yug Sharma<br>
 
 # Files:
 **Data Folder**: Contains all our raw data, tests files, and Jupyter Notebook Files. Important files to note are:
